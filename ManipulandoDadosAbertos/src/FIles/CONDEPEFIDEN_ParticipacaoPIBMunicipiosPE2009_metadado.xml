@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arquivo>
+  <cabecalho>
+    <descricao  resumo="PIB é o total dos bens e serviços produzidos pelas unidades produtivas, ou seja,  à soma dos valores adicionados acrescida dos impostos."/>
+    <criador  autor="Agência Estadual de Planejamento e Pesquisas de Pernambuco"  produtor="Agência Estadual de Planejamento e Pesquisas de Pernambuco"/>
+    <sigla  autor="CONDEPE / FIDEN"  produtor="CONDEPE / FIDEN"/>
+    <assuntos>
+      <assunto  categoria="Economia"/>
+    </assuntos>
+    <titulo  principal="Participação do produto interno bruto - PIB dos municípios no PIB do Estado"/>
+    <fonte  origem="Agência Estadual de Planejamento e Pesquisas de Pernambuco"/>
+    <data  criacao="2011-01-14"  publicacao="2013-02-01"/>
+    <abrangencia  temporal="2009"/>
+    <periodicidade_atualizacao  frequencia=""  unidade=""/>
+  </cabecalho>
+  <corpo>
+    <cabecalho  campo1="Municípios"  campo2="Participação (%) - 2009" />
+    <registros>
+      <registro campo1="Abreu e Lima" campo2="0,95"/>
+      <registro campo1="Afogados da Ingazeira" campo2="0,22"/>
+      <registro campo1="Afrânio" campo2="0,08"/>
+      <registro campo1="Agrestina" campo2="0,14"/>
+      <registro campo1="Água Preta" campo2="0,16"/>
+      <registro campo1="Águas Belas" campo2="0,19"/>
+      <registro campo1="Alagoinha" campo2="0,07"/>
+      <registro campo1="Aliança" campo2="0,2"/>
+      <registro campo1="Altinho" campo2="0,1"/>
+      <registro campo1="Amaraji" campo2="0,11"/>
+      <registro campo1="Angelim" campo2="0,05"/>
+      <registro campo1="Araçoiaba" campo2="0,07"/>
+      <registro campo1="Araripina" campo2="0,44"/>
+      <registro campo1="Arcoverde" campo2="0,45"/>
+      <registro campo1="Barra de Guabiraba" campo2="0,06"/>
+      <registro campo1="Barreiros" campo2="0,22"/>
+      <registro campo1="Belém de Maria" campo2="0,05"/>
+      <registro campo1="Belém do São Francisco" campo2="0,13"/>
+      <registro campo1="Belo Jardim" campo2="0,89"/>
+      <registro campo1="Betânia" campo2="0,05"/>
+      <registro campo1="Bezerros" campo2="0,36"/>
+      <registro campo1="Bodocó" campo2="0,17"/>
+      <registro campo1="Bom Conselho" campo2="0,25"/>
+      <registro campo1="Bom Jardim" campo2="0,2"/>
+      <registro campo1="Bonito" campo2="0,23"/>
+      <registro campo1="Brejão" campo2="0,06"/>
+      <registro campo1="Brejinho" campo2="0,03"/>
+      <registro campo1="Brejo da Madre de Deus" campo2="0,21"/>
+      <registro campo1="Buenos Aires" campo2="0,07"/>
+      <registro campo1="Buíque" campo2="0,32"/>
+      <registro campo1="Cabo de Santo Agostinho" campo2="4,88"/>
+      <registro campo1="Cabrobó" campo2="0,24"/>
+      <registro campo1="Cachoeirinha" campo2="0,1"/>
+      <registro campo1="Caetés" campo2="0,12"/>
+      <registro campo1="Calçado" campo2="0,07"/>
+      <registro campo1="Calumbi" campo2="0,03"/>
+      <registro campo1="Camaragibe" campo2="0,79"/>
+      <registro campo1="Camocim de São Félix" campo2="0,09"/>
+      <registro campo1="Camutanga" campo2="0,14"/>
+      <registro campo1="Canhotinho" campo2="0,12"/>
+      <registro campo1="Capoeiras" campo2="0,11"/>
+      <registro campo1="Carnaíba" campo2="0,08"/>
+      <registro campo1="Carnaubeira da Penha" campo2="0,06"/>
+      <registro campo1="Carpina" campo2="0,55"/>
+      <registro campo1="Caruaru" campo2="3,09"/>
+      <registro campo1="Casinhas" campo2="0,07"/>
+      <registro campo1="Catende" campo2="0,19"/>
+      <registro campo1="Cedro" campo2="0,06"/>
+      <registro campo1="Chã de Alegria" campo2="0,05"/>
+      <registro campo1="Chã Grande" campo2="0,12"/>
+      <registro campo1="Condado" campo2="0,13"/>
+      <registro campo1="Correntes" campo2="0,09"/>
+      <registro campo1="Cortês" campo2="0,1"/>
+      <registro campo1="Cumaru" campo2="0,08"/>
+      <registro campo1="Cupira" campo2="0,12"/>
+      <registro campo1="Custódia" campo2="0,21"/>
+      <registro campo1="Dormentes" campo2="0,09"/>
+      <registro campo1="Escada" campo2="0,42"/>
+      <registro campo1="Exu" campo2="0,16"/>
+      <registro campo1="Feira Nova" campo2="0,09"/>
+      <registro campo1="Fernando de Noronha" campo2="0,03"/>
+      <registro campo1="Ferreiros" campo2="0,07"/>
+      <registro campo1="Flores" campo2="0,1"/>
+      <registro campo1="Floresta" campo2="0,26"/>
+      <registro campo1="Frei Miguelinho" campo2="0,07"/>
+      <registro campo1="Gameleira" campo2="0,13"/>
+      <registro campo1="Garanhuns" campo2="1,21"/>
+      <registro campo1="Glória do Goitá" campo2="0,13"/>
+      <registro campo1="Goiana" campo2="0,81"/>
+      <registro campo1="Granito" campo2="0,04"/>
+      <registro campo1="Gravatá" campo2="0,49"/>
+      <registro campo1="Iati" campo2="0,09"/>
+      <registro campo1="Ibimirim" campo2="0,16"/>
+      <registro campo1="Ibirajuba" campo2="0,05"/>
+      <registro campo1="Igarassu" campo2="1,35"/>
+      <registro campo1="Iguaracy" campo2="0,06"/>
+      <registro campo1="Inajá" campo2="0,09"/>
+      <registro campo1="Ingazeira" campo2="0,03"/>
+      <registro campo1="Ipojuca" campo2="9,03"/>
+      <registro campo1="Ipubi" campo2="0,14"/>
+      <registro campo1="Itacuruba" campo2="0,02"/>
+      <registro campo1="Itaíba" campo2="0,19"/>
+      <registro campo1="Ilha de Itamaracá" campo2="0,12"/>
+      <registro campo1="Itambé" campo2="0,22"/>
+      <registro campo1="Itapetim" campo2="0,06"/>
+      <registro campo1="Itapissuma" campo2="0,71"/>
+      <registro campo1="Itaquitinga" campo2="0,09"/>
+      <registro campo1="Jaboatão dos Guararapes" campo2="9,01"/>
+      <registro campo1="Jaqueira" campo2="0,06"/>
+      <registro campo1="Jataúba" campo2="0,08"/>
+      <registro campo1="Jatobá" campo2="0,07"/>
+      <registro campo1="João Alfredo" campo2="0,15"/>
+      <registro campo1="Joaquim Nabuco" campo2="0,12"/>
+      <registro campo1="Jucati" campo2="0,07"/>
+      <registro campo1="Jupi" campo2="0,09"/>
+      <registro campo1="Jurema" campo2="0,08"/>
+      <registro campo1="Lagoa do Carro" campo2="0,08"/>
+      <registro campo1="Lagoa do Itaenga" campo2="0,21"/>
+      <registro campo1="Lagoa do Ouro" campo2="0,06"/>
+      <registro campo1="Lagoa dos Gatos" campo2="0,07"/>
+      <registro campo1="Lagoa Grande" campo2="0,26"/>
+      <registro campo1="Lajedo" campo2="0,22"/>
+      <registro campo1="Limoeiro" campo2="0,34"/>
+      <registro campo1="Macaparana" campo2="0,12"/>
+      <registro campo1="Machados" campo2="0,06"/>
+      <registro campo1="Manari" campo2="0,08"/>
+      <registro campo1="Maraial" campo2="0,11"/>
+      <registro campo1="Mirandiba" campo2="0,07"/>
+      <registro campo1="Moreno" campo2="0,33"/>
+      <registro campo1="Nazaré da Mata" campo2="0,24"/>
+      <registro campo1="Olinda" campo2="3,32"/>
+      <registro campo1="Orobó" campo2="0,12"/>
+      <registro campo1="Orocó" campo2="0,13"/>
+      <registro campo1="Ouricuri" campo2="0,34"/>
+      <registro campo1="Palmares" campo2="0,49"/>
+      <registro campo1="Palmeirina" campo2="0,04"/>
+      <registro campo1="Panelas" campo2="0,11"/>
+      <registro campo1="Paranatama" campo2="0,07"/>
+      <registro campo1="Parnamirim" campo2="0,11"/>
+      <registro campo1="Passira" campo2="0,13"/>
+      <registro campo1="Paudalho" campo2="0,28"/>
+      <registro campo1="Paulista" campo2="2,35"/>
+      <registro campo1="Pedra" campo2="0,15"/>
+      <registro campo1="Pesqueira" campo2="0,37"/>
+      <registro campo1="Petrolândia" campo2="0,69"/>
+      <registro campo1="Petrolina" campo2="2,91"/>
+      <registro campo1="Poção" campo2="0,05"/>
+      <registro campo1="Pombos" campo2="0,14"/>
+      <registro campo1="Primavera" campo2="0,09"/>
+      <registro campo1="Quipapá" campo2="0,13"/>
+      <registro campo1="Quixaba" campo2="0,03"/>
+      <registro campo1="Recife" campo2="31,67"/>
+      <registro campo1="Riacho das Almas" campo2="0,11"/>
+      <registro campo1="Ribeirão" campo2="0,27"/>
+      <registro campo1="Rio Formoso" campo2="0,19"/>
+      <registro campo1="Sairé" campo2="0,08"/>
+      <registro campo1="Salgadinho" campo2="0,03"/>
+      <registro campo1="Salgueiro" campo2="0,4"/>
+      <registro campo1="Saloá" campo2="0,08"/>
+      <registro campo1="Sanharó" campo2="0,11"/>
+      <registro campo1="Santa Cruz" campo2="0,07"/>
+      <registro campo1="Santa Cruz da Baixa Verde" campo2="0,05"/>
+      <registro campo1="Santa Cruz do Capibaribe" campo2="0,52"/>
+      <registro campo1="Santa Filomena" campo2="0,06"/>
+      <registro campo1="Santa Maria da Boa Vista" campo2="0,3"/>
+      <registro campo1="Santa Maria do Cambucá" campo2="0,06"/>
+      <registro campo1="Santa Terezinha" campo2="0,05"/>
+      <registro campo1="São Benedito do Sul" campo2="0,05"/>
+      <registro campo1="São Bento do Una" campo2="0,34"/>
+      <registro campo1="São Caitano" campo2="0,17"/>
+      <registro campo1="São João" campo2="0,12"/>
+      <registro campo1="São Joaquim do Monte" campo2="0,11"/>
+      <registro campo1="São José da Coroa Grande" campo2="0,09"/>
+      <registro campo1="São José do Belmonte" campo2="0,16"/>
+      <registro campo1="São José do Egito" campo2="0,18"/>
+      <registro campo1="São Lourenço da Mata" campo2="0,55"/>
+      <registro campo1="São Vicente Ferrer" campo2="0,09"/>
+      <registro campo1="Serra Talhada" campo2="0,69"/>
+      <registro campo1="Serrita" campo2="0,09"/>
+      <registro campo1="Sertânia" campo2="0,21"/>
+      <registro campo1="Sirinhaém" campo2="0,28"/>
+      <registro campo1="Moreilândia" campo2="0,05"/>
+      <registro campo1="Solidão" campo2="0,03"/>
+      <registro campo1="Surubim" campo2="0,34"/>
+      <registro campo1="Tabira" campo2="0,13"/>
+      <registro campo1="Tacaimbó" campo2="0,06"/>
+      <registro campo1="Tacaratu" campo2="0,09"/>
+      <registro campo1="Tamandaré" campo2="0,14"/>
+      <registro campo1="Taquaritinga do Norte" campo2="0,13"/>
+      <registro campo1="Terezinha" campo2="0,03"/>
+      <registro campo1="Terra Nova" campo2="0,09"/>
+      <registro campo1="Timbaúba" campo2="0,49"/>
+      <registro campo1="Toritama" campo2="0,19"/>
+      <registro campo1="Tracunhaém" campo2="0,08"/>
+      <registro campo1="Trindade" campo2="0,14"/>
+      <registro campo1="Triunfo" campo2="0,07"/>
+      <registro campo1="Tupanatinga" campo2="0,11"/>
+      <registro campo1="Tuparetama" campo2="0,05"/>
+      <registro campo1="Venturosa" campo2="0,1"/>
+      <registro campo1="Verdejante" campo2="0,05"/>
+      <registro campo1="Vertente do Lério" campo2="0,05"/>
+      <registro campo1="Vertentes" campo2="0,08"/>
+      <registro campo1="Vicência" campo2="0,2"/>
+      <registro campo1="Vitória de Santo Antão" campo2="1,3"/>
+      <registro campo1="Xexéu" campo2="0,07"/>
+    </registros>
+  </corpo>
+</arquivo>
