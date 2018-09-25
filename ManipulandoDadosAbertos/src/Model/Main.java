@@ -59,6 +59,5 @@ public class Main {
 			System.out.println(elemento.getAttributeValue("campo1")+""
 					+ " - "+elemento.getAttributeValue("campo2"));
 		}
-
 	}
 }
