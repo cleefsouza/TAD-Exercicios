@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<produtos>
+<produto id="p1">
+<nome>Cafe</nome>
+<preco>5</preco>
+</produto>
+<produto id="p2">
+<nome>Chocolate</nome>
+<preco>2</preco>
+</produto>
+<produto id="p3">
+<nome>Pizza</nome>
+<preco>15</preco>
+</produto>
+</produtos>
